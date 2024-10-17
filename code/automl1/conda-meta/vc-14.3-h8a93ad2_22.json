@@ -1,0 +1,35 @@
+{
+  "build": "h8a93ad2_22",
+  "build_number": 22,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.40.33810"
+  ],
+  "extracted_package_dir": "C:\\Users\\Mikolaj\\miniforge3\\pkgs\\vc-14.3-h8a93ad2_22",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "vc-14.3-h8a93ad2_22.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Mikolaj\\miniforge3\\pkgs\\vc-14.3-h8a93ad2_22",
+    "type": 1
+  },
+  "md5": "a47cd756e88d8a80dfae678842d4acc9",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\Mikolaj\\miniforge3\\pkgs\\vc-14.3-h8a93ad2_22.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "b72e7410ec0a748d21e9e997234fc474e3367cee8f509b07eb8182d3584a38d8",
+  "size": 17462,
+  "subdir": "win-64",
+  "timestamp": 1728400826000,
+  "track_features": "vc14",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.3-h8a93ad2_22.conda",
+  "version": "14.3"
+}
